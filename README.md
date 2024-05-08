@@ -8,4 +8,14 @@ kW82f9Afvrhb_Py io.github.tiarait.extendedchipgroup- >👋 Hi, I’m @DevArmench
 DevArmenchik/DevArmenchik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ikW82f9Afvrhb_Py io.github.tiarait.extendedchipgroup- >👋 Hi, I’m @DevArmenchik
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+DevArmenchik/DevArmenchik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 i
